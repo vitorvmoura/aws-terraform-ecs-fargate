@@ -38,6 +38,10 @@ A infraestrutura foi projetada com os seguintes pilares técnicos:
 - **CloudWatch**  
   Configuração de monitoramento de performance e retenção de logs.
 
+  💡 Informações Detalhadas
+
+Para entender como a aplicação foi construída, as dependências utilizadas e como rodar o ambiente de desenvolvimento, acesse o README da pasta Aplicação.
+
 ---
 
 ## 🚀 Como Executar
@@ -118,7 +122,7 @@ graph TD
 
 Se desejar discutir este projeto ou oportunidades na área de **Cloud & DevOps**, conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-v-moura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-v-moura)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasconcelosvitor236@gmail.com)
 
