@@ -128,4 +128,4 @@ Se desejar discutir este projeto ou oportunidades na área de **Cloud & DevOps**
 
 ---
 
-### 👨‍💻 Desenvolvido por Vitor Vasconcelos de Moura 🚀
+### 👨‍💻 Desenvolvido por Vitor Vasconcelos Moura 🚀
